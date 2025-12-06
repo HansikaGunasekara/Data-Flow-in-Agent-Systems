@@ -74,3 +74,8 @@ Here's the JSON output you requested!
 - It might give certain fields in a wrong format
 
 This unpredictability in the LLM response format is not reliable to get a stuructured output from a LLM. With Pydantic we can ensure an LLM to give the data in an expected format.
+
+The Pydantic data model supports LLMs to have structured outputs and function calls.
+
+![Customer Support Application](https://github.com/HansikaGunasekara/Data-Flow-in-Agent-Systems/blob/main/LLM_Data_Validation_framework.jpg)
+
